@@ -1,0 +1,6 @@
+sold item 
+
+Item 001     $100
+Item 009     $60
+Item 007     $35
+Item 008     $62

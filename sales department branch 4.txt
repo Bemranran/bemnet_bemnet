@@ -1,0 +1,6 @@
+sold item 
+
+Item 0011    $200
+Item 0091    $660
+Item 0068    $350
+Item 0088    $620
